@@ -1,15 +1,82 @@
 baseURL = "https://iamjay.github.io"
 languageCode = "en-us"
 title = "Jay's Journal"
-theme = "hugo-theme-bootstrap4-blog"
 enableGitInfo = true
-paginate = 5
+theme = "hugo-icarus-theme"
 disqusShortname = "jayjournal"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
 
 [params]
     author = "Jay"
-    description = "My journal"
+    bio = "Mid-Life Programmer"
+    location = "Bangkok - Thailand"
+    site_description = ""
+    copyright  = "pathompong@gmail.com"
+    avatar = "css/images/avatar.png"
+    gravatar = "pathompong@gmail.com"
+    logo = "css/images/logo.png"
+    disable_mathjax = false
 
-    [params.sidebar]
-        about = "This is my journal."
-        num_recent_posts = 5
+    mainSections = ["post"]
+
+    date_format = "2006-01-02"
+
+    custom_css = []
+    custom_js  = []
+
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
+
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "Categories"
+    link   = "categories/"
+
+[params.profile]
+    follow_button = "https://github.com/iamjay"
+
+[social]
+    github          = "iamjay"
+    gitlab          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = "pathompong"
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = "jay.pathompong"
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "jay_pathompong"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true
