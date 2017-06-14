@@ -1,0 +1,15 @@
+baseURL = "https://iamjay.github.io"
+languageCode = "en-us"
+title = "Jay's Journal"
+theme = "hugo-theme-bootstrap4-blog"
+enableGitInfo = true
+paginate = 5
+disqusShortname = "jayjournal"
+
+[params]
+    author = "Jay"
+    description = "My journal"
+
+    [params.sidebar]
+        about = "This is my journal."
+        num_recent_posts = 5
