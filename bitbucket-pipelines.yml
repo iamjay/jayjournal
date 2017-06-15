@@ -10,4 +10,6 @@ pipelines:
           - git clone --depth 1 git@github.com:iamjay/iamjay.github.io.git public
           - (cd public && git rm -rf *)
           - hugo
+          - git config --global user.email "pathompong@gmail.com"
+          - git config --global user.name "Pathompong Puengrostham"
           - (cd public && git add -A && git commit -m "Deploy from bitbucket" && git push)
