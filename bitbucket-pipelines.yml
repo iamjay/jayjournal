@@ -1,0 +1,13 @@
+pipelines:
+  default:
+    - step:
+        script:
+          - apt-get update -y && apt-get install wget
+          - apt-get -y install git
+          - wget https://github.com/spf13/hugo/releases/download/v0.18/hugo_0.18-64bit.deb
+          - dpkg -i hugo*.deb
+          - git submodule update --init
+          - git clone --depth 0 git@github.com:iamjay/iamjay.github.io.git public
+          - (cd public && git rm -rf *)
+          - hugo
+          - (cd public && git add -A && git commit -m "Deploy from bitbucket" && git push)
