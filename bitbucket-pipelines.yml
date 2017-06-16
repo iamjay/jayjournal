@@ -12,4 +12,4 @@ pipelines:
           - hugo
           - git config --global user.email "pathompong@gmail.com"
           - git config --global user.name "Pathompong Puengrostham"
-          - (cd public && git add -A && git commit -m "Deploy from bitbucket" && git push)
+          - (cd public && git add -A && git commit -m "Auto build from ${BITBUCKET_COMMIT}" && git push)
