@@ -8,6 +8,9 @@ disqusShortname = "jayjournal"
 [permalinks]
     post = "/:year/:month/:day/:slug"
 
+[blackfriday]
+    extensions = ["hardLineBreak"]
+
 [params]
     author = "Jay"
     bio = "Programmer : Japanese Beginner"
