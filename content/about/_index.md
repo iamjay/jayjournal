@@ -5,4 +5,4 @@ menu = "main"
 disable_comments = true
 +++
 
-Add some information about yourself.
+Hi! I'm a software developer living in Bangkok, Thailand. I love technology, gadgets, and travelling. I'm learning Japanese and interested in its culture. Hopefully one day I can read Japanese.
