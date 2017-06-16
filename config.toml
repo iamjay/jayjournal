@@ -10,7 +10,7 @@ disqusShortname = "jayjournal"
 
 [params]
     author = "Jay"
-    bio = "Midlife Programmer"
+    bio = "Programmer : Japanese Beginner"
     location = "Bangkok - Thailand"
     site_description = ""
     copyright  = "pathompong@gmail.com"
@@ -33,16 +33,16 @@ disqusShortname = "jayjournal"
 
 [[params.menu]]
     before = false
-    label  = "Tags"
-    link   = "tags/"
-
-[[params.menu]]
-    before = false
     label  = "Categories"
     link   = "categories/"
 
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
+
 [params.profile]
-    follow_button = "https://github.com/iamjay"
+    follow_button = "https://twitter.com/jay_pathompong"
 
 [social]
     github          = "iamjay"

@@ -1,7 +1,7 @@
 +++
 title = "About"
-date = "2017-05-19T21:49:20+02:00"
-menu = "main"
+date = "2017-06-16T12:49:20+07:00"
+menu = ""
 disable_comments = true
 +++
 
