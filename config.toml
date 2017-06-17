@@ -13,7 +13,7 @@ disqusShortname = "jayjournal"
 
 [params]
     author = "Jay"
-    bio = "Programmer : Japanese Beginner"
+    bio = "Programmer • Technology • Travel • Family • Life"
     location = "Bangkok - Thailand"
     site_description = ""
     copyright  = "pathompong@gmail.com"
@@ -24,7 +24,7 @@ disqusShortname = "jayjournal"
 
     mainSections = ["post"]
 
-    date_format = "2006-01-02"
+    date_format = "02 Feb 2006"
 
     custom_css = []
     custom_js  = []
