@@ -1,9 +1,10 @@
-baseURL = "https://iamjay.github.io"
+baseURL = "https://www.jayjournal.net"
 languageCode = "en-us"
 title = "Jay's Journal"
 enableGitInfo = true
 theme = "hugo-icarus-theme"
 disqusShortname = "jayjournal"
+googleAnalytics = "UA-102582424-1"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
