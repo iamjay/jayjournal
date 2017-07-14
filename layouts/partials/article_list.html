@@ -1,0 +1,38 @@
+{{ $paginator := .Paginate (where .Data.Pages "Section" "in" .Site.Params.mainSections) }}
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout="image-side"
+     data-ad-layout-key="-fg+5r+6l-ft+4e"
+     data-ad-client="ca-pub-7806207257576767"
+     data-ad-slot="7852955014"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+{{ range $paginator.Pages }}
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
+        <a href="{{ .Permalink }}" itemprop="url">
+            <img src="{{ .Params.banner | absURL }}" class="article-banner">
+        {{ end }}
+        </a>
+
+        {{ partial "article_header" . }}
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                {{ .Description | default .Summary }}
+            </p>
+            <p class="article-more-link">
+                <a href="{{ .Permalink }}">
+                    {{with .Site.Data.l10n.articles.read_more}}{{.}}{{end}}
+                </a>
+            </p>
+        </div>
+        {{ partial "article_footer" . }}
+    </div>
+</article>
+{{ end }}
+
+{{ partial "pagination" . }}
