@@ -1,4 +1,29 @@
 {{ $paginator := .Paginate (where .Data.Pages "Section" "in" .Site.Params.mainSections) }}
+{{ range $index, $page := $paginator.Pages }}
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        {{ if and (isset $page.Params "banner") (not (eq $page.Params.banner "")) }}
+        <a href="{{ $page.Permalink }}" itemprop="url">
+            <img src="{{ $page.Params.banner | absURL }}" class="article-banner">
+        {{ end }}
+        </a>
+
+        {{ partial "article_header" $page }}
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                {{ $page.Description | default $page.Summary }}
+            </p>
+            <p class="article-more-link">
+                <a href="{{ $page.Permalink }}">
+                    {{with $page.Site.Data.l10n.articles.read_more}}{{$page}}{{end}}
+                </a>
+            </p>
+        </div>
+        {{ partial "article_footer" $page }}
+    </div>
+    {{ if eq $index 0 }}
+<div>
+<br />
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -10,28 +35,8 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-{{ range $paginator.Pages }}
-<article class="article article-type-post" itemscope="" itemprop="blogPost">
-    <div class="article-inner">
-        {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
-        <a href="{{ .Permalink }}" itemprop="url">
-            <img src="{{ .Params.banner | absURL }}" class="article-banner">
-        {{ end }}
-        </a>
-
-        {{ partial "article_header" . }}
-        <div class="article-entry" itemprop="articleBody">
-            <p>
-                {{ .Description | default .Summary }}
-            </p>
-            <p class="article-more-link">
-                <a href="{{ .Permalink }}">
-                    {{with .Site.Data.l10n.articles.read_more}}{{.}}{{end}}
-                </a>
-            </p>
-        </div>
-        {{ partial "article_footer" . }}
-    </div>
+</div>
+    {{ end }}
 </article>
 {{ end }}
 
