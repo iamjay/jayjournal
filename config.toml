@@ -24,7 +24,7 @@ disqusShortname = "jayjournal"
 
     mainSections = ["post"]
 
-    date_format = "02 Feb 2006"
+    date_format = "Mon 2 Jan 2006"
 
     custom_css = []
     custom_js  = []
