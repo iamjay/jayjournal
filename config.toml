@@ -11,6 +11,7 @@ googleAnalytics = "UA-102582424-1"
 
 [blackfriday]
     extensions = ["hardLineBreak"]
+   hrefTargetBlank = true
 
 [params]
     author = "Jay"
