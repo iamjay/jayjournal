@@ -28,7 +28,7 @@ googleAnalytics = "UA-102582424-1"
 
     date_format = "Mon 2 Jan 2006"
 
-    custom_css = []
+    custom_css = ["css/custom_style.css"]
     custom_js  = []
 
 [[params.menu]]
