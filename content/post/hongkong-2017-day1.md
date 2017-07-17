@@ -1,7 +1,7 @@
 +++
 banner = "/images/hongkong-2017-day1/banner.jpg"
 categories = ["travel"]
-date = "2017-07-14T14:26:00+07:00"
+date = "2017-07-16T10:20:00+07:00"
 description = ""
 images = []
 menu = ""

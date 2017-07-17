@@ -1,5 +1,5 @@
 baseURL = "https://www.jayjournal.net"
-languageCode = "en-us"
+languageCode = "th-TH"
 title = "Jay's Journal"
 enableGitInfo = true
 theme = "hugo-icarus-theme"
@@ -11,7 +11,7 @@ googleAnalytics = "UA-102582424-1"
 
 [blackfriday]
     extensions = ["hardLineBreak"]
-   hrefTargetBlank = true
+    hrefTargetBlank = true
 
 [params]
     author = "Jay"
