@@ -1,13 +1,11 @@
 +++
-tags = ["hongkong"]
-categories = ["travel"]
-date = "2017-07-17T11:22:00+07:00"
-description = ""
-menu = ""
-banner = ""
-images = []
 draft = true
 title = "พาเที่ยวฮ่องกง Summer 2017 - Day 2"
+date = "2017-07-17T11:22:00+07:00"
+categories = ["travel"]
+tags = ["hongkong"]
+coverSize = "partial"
+thumbnailImagePosition = "left"
 +++
 
 สำหรับแพลนวันนี้ เราจะไปไหว้พระใหญ่ที่นองปิงกัน เสร็จแล้วแวะช้อปปิ้งที่ Citygate Outlets จากนั้นแวะห้าง Habour City ก่อนไปเดินเล่นกลางคืนที่ย่านมงก๊ก

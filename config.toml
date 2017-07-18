@@ -1,87 +1,71 @@
 baseURL = "https://www.jayjournal.net"
-languageCode = "th-TH"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "Jay's Journal"
-enableGitInfo = true
-theme = "hugo-icarus-theme"
+theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jayjournal"
 googleAnalytics = "UA-102582424-1"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = "/:year/:month/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[author]
+    name = "Jay"
+    bio = "Technology • Travel • Family • Life"
+    location = "Bangkok - Thailand"
+    gravatarEmail = "pathompong@gmail.com"
+
+# Menu Configuration
+[[menu.main]]
+    weight = 1
+    identifier = "home"
+    name = "Home"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+    url = "/"
+[[menu.main]]
+    weight = 2
+    identifier = "categories"
+    name = "Categories"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+    url = "/categories"
+[[menu.main]]
+    weight = 3
+    identifier = "tags"
+    name = "Tags"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+    url = "/tags"
+[[menu.links]]
+    weight = 4
+    identifier = "facebook"
+    name = "Facebook"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
+    url = "https://www.facebook.com/jayjournal.net"
+[[menu.misc]]
+    weight = 5
+    identifier = "rss"
+    name = "RSS"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
+    url = "/index.xml"
+
+[params]
+    date_format = "2 January 2006"
+    clearReading = false
+    description = "Hugo tranquilpeak theme demo"
+    sidebarBehavior = 1
+    coverImage = "https://lh3.googleusercontent.com/hA0K6Be2fzkIbdlYgfQjET61qCUIZqKZRMZx6YTEtPqF6E_xmtDO4jv7Z4w_xw1dnM2RG7ZkNtBigfMupwxm53nSUpoZ5PxBNaHv9d82ZzVAEr0SkB3BvWREOWhfalP34Y6HQH1E-BwlUx11qJDRdCj2hBNyDJEReyVjeFe0Hn0o3_-QCaiFidF9ulQhAqdCEWQWfmyvIyOVkJqRvjwdSmdaFhBbOBN73Poj4oq-aS3CNsK68Hg1K8yq0JlLjwIApSzEwFpxQeVEX1g-v3zZl_rY7OcAsbKL9VfWMzJ3S2lQYBnHPeMi4isTw1ouVsucHXCXqy3UFp2682UZxBNCnIsDvxo0fEUvuZ1lE2qMSXZucMPtyBwiZeEKpymyr5pHDQFIN0vkGn6GhKWOVteQB_9SfiUtWbX53ldxodWJjz3VS8chEpYmRnMLoWIQu3fS_DE0WZGT-3hb6WLsUz4NYFfdbOCmRBlZnVICmuNKo7wtfQH9mDm37yfkPEMgtgvxuRt947IrHmfor26ziuCMFRbYBgk6F9kU9Gv0qdSP5Y24MGlURK3IfmQFHGGvcjRbMvevquOY2K0b3zU5Tn2VWly0S9tKIWrehFNBLgsAC-bdxMw4NSg42gH1yQ=w1241-h931-no"
+    imageGallery = true
+    thumbnailImage = true
+    autoThumbnailImage = true
+    favicon = "/favicon.ico"
+    keywords = [ "pantip", "ท่องเที่ยว", "เที่ยวด้วยตัวเอง" ]
+
+[params.sidebar.profile]
+    url = "/"
 
 [blackfriday]
     extensions = ["hardLineBreak"]
     hrefTargetBlank = true
-
-[params]
-    author = "Jay"
-    bio = "Programmer • Technology • Travel • Family • Life"
-    location = "Bangkok - Thailand"
-    site_description = ""
-    copyright  = "pathompong@gmail.com"
-    avatar = "css/images/avatar.png"
-    gravatar = "pathompong@gmail.com"
-    logo = "css/images/logo.png"
-    disable_mathjax = false
-
-    mainSections = ["post"]
-
-    date_format = "Mon 2 Jan 2006"
-
-    custom_css = ["css/custom_style.css"]
-    custom_js  = []
-
-[[params.menu]]
-    before = true
-    label  = "Home"
-    link   = "/"
-
-[[params.menu]]
-    before = false
-    label  = "Categories"
-    link   = "categories/"
-
-[[params.menu]]
-    before = false
-    label  = "Tags"
-    link   = "tags/"
-
-[params.profile]
-    follow_button = "https://twitter.com/jay_pathompong"
-
-[social]
-    github          = "iamjay"
-    gitlab          = ""
-    bitbucket       = ""
-    jsfiddle        = ""
-    codepen         = ""
-    foursquare      = ""
-    dribbble        = ""
-    deviantart      = ""
-    behance         = ""
-    flickr          = ""
-    instagram       = ""
-    youtube         = ""
-    vimeo           = ""
-    vine            = ""
-    medium          = ""
-    wordpress       = ""
-    tumblr          = ""
-    xing            = ""
-    linkedin        = "pathompong"
-    slideshare      = ""
-    stackoverflow   = ""
-    reddit          = ""
-    pinterest       = ""
-    googleplus      = ""
-    facebook        = "jay.pathompong"
-    facebook_admin  = ""
-    twitter_domain  = ""
-    twitter         = "jay_pathompong"
-
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    recent_articles = true
-    categories = true
-    tags = true
-    tag_cloud = true

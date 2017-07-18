@@ -1,17 +1,18 @@
 +++
-banner = "/images/whatispend.png"
-categories = ["news"]
-date = "2017-06-16T16:38:20+07:00"
-description = ""
-images = []
-menu = ""
-tags = ["whatispend", "android"]
 title = "What I Spend -- มาใช้มือถือช่วยจดค่าใช้จ่ายประจำวันกันเถอะ"
+date = "2017-06-16T16:38:20+07:00"
+categories = ["news"]
+tags = ["whatispend", "android"]
+thumbnailImage = "/images/whatispend.png"
+thumbnailImagePosition = "left"
 +++
 
 เนื่องจากผมเป็นคนที่ชอบจดรายจ่ายประจำวัน เพื่อที่จะได้กลับมาดูว่าเราใช้อะไรไปบ้าง หลังจากที่ลองใช้มาหลายๆแอพก็ยังไม่เจอแอพที่สามารถตอบโจทย์ได้อย่างที่ต้องการ บางแอพก็ฟีเจอร์เยอะดี แต่ดูไม่ทันสมัย บางแอพก็สวยดีแต่ฟีเจอร์น้อยไป บางตัวตอบโจทย์ทุกอย่างแต่ต้องจ่ายเป็นรายเดือน จึงคิดว่าน่าจะทำแอพเอง จะได้อย่างที่ต้องการ ไม่ต้องเสียเงินด้วย จึงเกิดเป็นแอพนี้ขึ้นมา ชื่อว่า “What I Spend”
 
 <!--more-->
+
+![](/images/whatispend.png)
+
 ตอนนี้มีเฉพาะบน Android ใครต้องการใช้สามารถ download ได้เลยครับตาม link ข้างล่าง ไว้วันหลังจะมารีวิวแอพตัวเองอีกทีครับ ใครลองใช้แล้ว ชอบ ไม่ชอบ ยังไงก็ช่วย comment ได้นะครับ จะได้นำไปปรับปรุงให้ดีขึ้นครับ
 
 https://play.google.com/store/apps/details?id=com.kanokgems.whatispend
