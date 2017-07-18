@@ -1,12 +1,41 @@
-+++
-title = "พาเที่ยวฮ่องกง Summer 2017 - Day 1"
-date = "2017-07-16T10:20:00+07:00"
-categories = ["travel"]
-tags = ["hongkong"]
-coverImage = "/images/hongkong-2017-day1/banner.jpg"
-coverSize = "partial"
-thumbnailImagePosition = "left"
-+++
+---
+title: "พาเที่ยวฮ่องกง Summer 2017 - Day 1"
+date: "2017-07-16T10:20:00+07:00"
+categories:
+    - "travel"
+tags:
+    - "hongkong"
+coverImage: "/images/hongkong-2017-day1/cover.jpg"
+coverSize: "partial"
+thumbnailImage: "/images/hongkong-2017-day1/cover-tn.jpg"
+thumbnailImagePosition: "top"
+gallery:
+- /images/hongkong-2017-day1/IMG_7494.jpg
+- /images/hongkong-2017-day1/IMG_7496.jpg
+- /images/hongkong-2017-day1/IMG_7497.jpg
+- /images/hongkong-2017-day1/IMG_7501.jpg
+- /images/hongkong-2017-day1/IMG_7508.jpg
+- /images/hongkong-2017-day1/IMG_7505.jpg
+- /images/hongkong-2017-day1/IMG_7512.jpg
+- /images/hongkong-2017-day1/G0046823.jpg
+- /images/hongkong-2017-day1/IMG_7530.jpg
+- /images/hongkong-2017-day1/IMG_7527.jpg
+- /images/hongkong-2017-day1/IMG_7528.jpg
+- /images/hongkong-2017-day1/IMG_7533.jpg
+- /images/hongkong-2017-day1/20170702_203942.jpg
+- /images/hongkong-2017-day1/20170702_210515.jpg
+- /images/hongkong-2017-day1/20170704_085059.jpg
+- /images/hongkong-2017-day1/20170704_085107.jpg
+- /images/hongkong-2017-day1/20170702_221620.jpg
+- /images/hongkong-2017-day1/20170702_221551.jpg
+- /images/hongkong-2017-day1/20170702_221558.jpg
+- /images/hongkong-2017-day1/IMG_7534.jpg
+- /images/hongkong-2017-day1/IMG_7535.jpg
+- /images/hongkong-2017-day1/IMG_7536.jpg
+- /images/hongkong-2017-day1/IMG_7537.jpg
+- /images/hongkong-2017-day1/IMG_7538.jpg
+- /images/hongkong-2017-day1/20170702_220711.jpg
+---
 
 แล้วก็ถึงวันเดินทาง หลังจากที่จองตั๋วไว้ล่วงหน้าเดือนกว่า เคาเตอร์สายการบินเริ่มเปิดให้เช็คอินเวลา 11:05 เราก็ไปถึงตรงเวลาพอดี สำหรับสายการบิน Emirates เช็คอินที่แถว T อยู่ท้ายสุดของอาคารเลยครับ ถ้ามีรถมาส่งก็ลงที่ประตูสุดท้ายของอาคารขาออกเลยครับ เราทำการเช็คอินออนไลน์มาแล้ว จะมีแถวให้ต่างหากครับ แต่ในวันนั้น ทั้งสองแถวก็ไม่มีคิวทั้งคู่ อาจจะเพราะมาเร็วเคาเตอร์เพิ่งเปิดไม่นาน
 
@@ -18,12 +47,7 @@ thumbnailImagePosition = "left"
 
 ในเลานจ์ก็จะมีของว่างเล็กๆน้อยๆ ข้าวต้ม แซนด์วิช ขนมเค้ก คุ้กกี้ กาแฟ น้ำผลไม้ น้ำอัดลม พอให้อิ่มขึ้นได้อีกนิด
 
-![](/images/hongkong-2017-day1/IMG_7494.jpg)
-![](/images/hongkong-2017-day1/IMG_7496.jpg)
-![](/images/hongkong-2017-day1/IMG_7497.jpg)
-![](/images/hongkong-2017-day1/IMG_7501.jpg)
-![](/images/hongkong-2017-day1/IMG_7508.jpg)
-![](/images/hongkong-2017-day1/IMG_7505.jpg)
+{{< image classes="fancybox fig-50" src="/images/hongkong-2017-day1/IMG_7494.jpg" group="lounge">}}{{< image classes="fancybox fig-50" src="/images/hongkong-2017-day1/IMG_7496.jpg" group="lounge">}}{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day1/IMG_7497.jpg" group="lounge">}}{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day1/IMG_7501.jpg" group="lounge">}}{{< image classes="fancybox fig-33 clear" src="/images/hongkong-2017-day1/IMG_7508.jpg" group="lounge">}}
 
 นั่งเล่นจนได้เวลาขึ้นเครื่องก็เดินไปที่เกทได้เลยครับ พนักงานสายการบินก็จะเรียกขึ้นเครื่องเป็นโซนๆ ครับ ตอนที่เช็คอินออนไลน์มีที่นั่งว่างด้านหน้า จึงขึ้นเครื่องกลุ่มสุดท้าย แต่ครอบครัวเราไม่รีบอยู่แล้ว นั่งรอถ่ายรูปไปก่อนครับ เครื่องนี้ครับที่เราจะใช้เดินทางไปฮ่องกง เพิ่งบินมาจากดูไบได้ไม่นาน
 
@@ -35,9 +59,7 @@ thumbnailImagePosition = "left"
 
 หลังจากเครื่องขึ้นสักพักแอร์ก็จะเริ่มเสิร์ฟอาหาร มีให้เลือกระหว่างข้าวแพนงไก่หรือปลาในซอสครีม ข้าวแพนงไก่อร่อยใช้ได้เลยครับ แต่ปลาจะเลี่ยนๆ หน่อย แต่ที่อร่อยจริงๆ คือขนมครับ เป็นชีสเค้กรสมะพร้าว อร่อยมากครับ
 
-![](/images/hongkong-2017-day1/IMG_7530.jpg)
-![](/images/hongkong-2017-day1/IMG_7527.jpg)
-![](/images/hongkong-2017-day1/IMG_7528.jpg)
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day1/IMG_7530.jpg" group="airplane">}}{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day1/IMG_7527.jpg" group="airplane">}}{{< image classes="fancybox fig-33 clear" src="/images/hongkong-2017-day1/IMG_7528.jpg" group="airplane">}}
 
 กินอิ่มแล้วก็นั่งดูหนังต่อไปอีกชั่วโมงกว่าๆ ก็ถึงฮ่องกงแล้วครับ พอออกจากเครื่องก็เดินตามทางไปเรื่อยๆ ขึ้นๆ ลงๆ บันไดเลื่อน รถไฟระหว่าง terminal ทางเดินเลื่อน เดินกันไกลพอสมควรจนถึงตม. เอาใบเข้าเมืองมาเขียน แล้วก็ไปต่อคิว ประมาณสิบนาทีก็ออกมาถึงจุดรับกระเป๋าแล้วครับ รอกันกระเป๋ากันไม่นานก็มาครบ เดินออกมาจากจุดรับกระเป๋า เห็นป้าย Airport Express ก็เดินเข้าไปได้เลยครับ ไม่ต้องใช้ตั๋วอะไร เราสามารถไปซื้อตอนขาออกได้เลย
 
@@ -50,20 +72,10 @@ thumbnailImagePosition = "left"
 
 รถที่นั่งเป็นสาย K2 เพื่อไปลงที่โรงแรม The Kowloon ซึ่งอยู่ใกล้ๆ กับที่พักของเรา หลังจากนั่งรถมาได้ประมาณห้านาทีก็ถึงแล้วครับ เดินต่ออีกนิดเดียวก็ถึงหน้าโรงแรม เช็คอินแล้วก็เก็บกระเป๋ากันก่อนเลยครับ
 
-![](/images/hongkong-2017-day1/20170702_210515.jpg)
-![](/images/hongkong-2017-day1/20170704_085059.jpg)
-![](/images/hongkong-2017-day1/20170704_085107.jpg)
+{{< image classes="fancybox" src="/images/hongkong-2017-day1/20170702_210515.jpg" group="hotel">}}{{< image classes="fancybox fig-50" src="/images/hongkong-2017-day1/20170704_085059.jpg" group="hotel">}}{{< image classes="fancybox fig-50 clear" src="/images/hongkong-2017-day1/20170704_085107.jpg" group="hotel">}}
 
 เช็คอินเสร็จเรียบร้อยเราก็ไปกินมื้อแรกของฮ่องกงกันเลย ร้านที่ไปอยู่ใกล้ๆ กับโรงแรมเลยครับ ชื่อ [Chuk Yuen Chinese Seafood Restaurant](https://goo.gl/maps/81Z1bc2ekZ82) ร้านจะอยู่ชั้นใต้ดิน พาเราเข้าไปพนังงานจะมีปรับบันไดเลื่อนให้ลงครับ เป็นกันเองมาก เข้าไปจะเจอตู้ปลา แปลว่าไม่ผิดร้านแน่นอนครับ ร้านนี้มีเมนูภาษาอังกฤษครับ อาหารที่สั่งก็มี กุ้งทอดกระเทียม ผัดหมี่ ลาบนกพิราบ เต้าหู้ทอด แล้วก็ข้าวผัด โดยรวม อร่อยใช้ได้ครับ หลังจากกินเสร็จทางร้านจะมีผลไม้ให้ด้วยครับ
 
-![](/images/hongkong-2017-day1/20170702_221620.jpg)
-![](/images/hongkong-2017-day1/20170702_221551.jpg)
-![](/images/hongkong-2017-day1/20170702_221558.jpg)
-![](/images/hongkong-2017-day1/IMG_7534.jpg)
-![](/images/hongkong-2017-day1/IMG_7535.jpg)
-![](/images/hongkong-2017-day1/IMG_7536.jpg)
-![](/images/hongkong-2017-day1/IMG_7537.jpg)
-![](/images/hongkong-2017-day1/IMG_7538.jpg)
-![](/images/hongkong-2017-day1/20170702_220711.jpg)
+{{< image classes="fancybox fig-50" src="/images/hongkong-2017-day1/IMG_7534.jpg" group="dinner">}}{{< image classes="fancybox fig-50" src="/images/hongkong-2017-day1/IMG_7535.jpg" group="dinner">}}{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day1/IMG_7536.jpg" group="dinner">}}{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day1/IMG_7537.jpg" group="dinner">}}{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day1/IMG_7538.jpg" group="dinner">}}{{< image classes="fancybox fig-75" src="/images/hongkong-2017-day1/20170702_220711.jpg" group="dinner">}}{{< image classes="fancybox fig-25" src="/images/hongkong-2017-day1/20170702_221620.jpg" group="dinner">}}{{< image classes="fancybox fig-25" src="/images/hongkong-2017-day1/20170702_221551.jpg" group="dinner">}}{{< image classes="fancybox fig-25 clear" src="/images/hongkong-2017-day1/20170702_221558.jpg" group="dinner">}}
 
 หลังจากกินกันอิ่มแล้วก็เดินย่อย ช้อปปิ้งกันแถวโรงแรม มีร้านต่างๆ และห้างหลายห้างมากครับ แต่ที่ใกล้ๆ เลยก็มี Esprit กับ adidas ครับ แต่วันนี้เรายังไม่ซื้ออะไร เพราะมีเวลาอีกหลายวัน แอบเก็บราคากันไว้ก่อนครับ เสร็จแล้วกลับโรงแรมเตรียมตัวไปเที่ยวพรุ่งนี้ต่อกัน
