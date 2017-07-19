@@ -70,5 +70,4 @@ googleAnalytics = "UA-102582424-1"
     copyright = "pathompong@gmail.com"
 
 [blackfriday]
-    extensions = ["hardLineBreak"]
     hrefTargetBlank = true
