@@ -9,32 +9,6 @@ coverImage: "/images/hongkong-2017-day1/cover.jpg"
 coverSize: "partial"
 thumbnailImage: "/images/hongkong-2017-day1/cover-tn.jpg"
 thumbnailImagePosition: "top"
-gallery:
-- /images/hongkong-2017-day1/IMG_7494.jpg
-- /images/hongkong-2017-day1/IMG_7496.jpg
-- /images/hongkong-2017-day1/IMG_7497.jpg
-- /images/hongkong-2017-day1/IMG_7501.jpg
-- /images/hongkong-2017-day1/IMG_7508.jpg
-- /images/hongkong-2017-day1/IMG_7505.jpg
-- /images/hongkong-2017-day1/IMG_7512.jpg
-- /images/hongkong-2017-day1/G0046823.jpg
-- /images/hongkong-2017-day1/IMG_7530.jpg
-- /images/hongkong-2017-day1/IMG_7527.jpg
-- /images/hongkong-2017-day1/IMG_7528.jpg
-- /images/hongkong-2017-day1/IMG_7533.jpg
-- /images/hongkong-2017-day1/20170702_203942.jpg
-- /images/hongkong-2017-day1/20170702_210515.jpg
-- /images/hongkong-2017-day1/20170704_085059.jpg
-- /images/hongkong-2017-day1/20170704_085107.jpg
-- /images/hongkong-2017-day1/20170702_221620.jpg
-- /images/hongkong-2017-day1/20170702_221551.jpg
-- /images/hongkong-2017-day1/20170702_221558.jpg
-- /images/hongkong-2017-day1/IMG_7534.jpg
-- /images/hongkong-2017-day1/IMG_7535.jpg
-- /images/hongkong-2017-day1/IMG_7536.jpg
-- /images/hongkong-2017-day1/IMG_7537.jpg
-- /images/hongkong-2017-day1/IMG_7538.jpg
-- /images/hongkong-2017-day1/20170702_220711.jpg
 ---
 
 แล้วก็ถึงวันเดินทาง หลังจากที่จองตั๋วไว้ล่วงหน้าเดือนกว่า เคาเตอร์สายการบินเริ่มเปิดให้เช็คอินเวลา 11:05 เราก็ไปถึงตรงเวลาพอดี สำหรับสายการบิน Emirates เช็คอินที่แถว T อยู่ท้ายสุดของอาคารเลย ถ้ามีรถมาส่งก็ลงที่ประตูสุดท้ายของอาคารขาออกเลยครับ เราทำการเช็คอินออนไลน์มาแล้ว จะมีแถวให้ต่างหาก แต่ในวันนั้น ทั้งสองแถวก็ไม่มีคิวทั้งคู่ อาจจะเพราะมาเร็วเคาเตอร์เพิ่งเปิดไม่นาน
