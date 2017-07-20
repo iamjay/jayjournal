@@ -14,10 +14,11 @@ googleAnalytics = "UA-102582424-1"
   category = "categories"
 
 [author]
-    name = "Jay"
+    name = "Jay's Journal"
     bio = "Technology • Travel • Family • Life"
     location = "Bangkok - Thailand"
-    gravatarEmail = "pathompong@gmail.com"
+    picture = "/css/images/logo.png"
+    #gravatarEmail = "pathompong@gmail.com"
 
 # Menu Configuration
 [[menu.main]]
@@ -55,8 +56,8 @@ googleAnalytics = "UA-102582424-1"
     date_format = "2 January 2006"
     clearReading = false
     description = "Hugo tranquilpeak theme demo"
-    sidebarBehavior = 2
-    coverImage = "https://lh3.googleusercontent.com/hA0K6Be2fzkIbdlYgfQjET61qCUIZqKZRMZx6YTEtPqF6E_xmtDO4jv7Z4w_xw1dnM2RG7ZkNtBigfMupwxm53nSUpoZ5PxBNaHv9d82ZzVAEr0SkB3BvWREOWhfalP34Y6HQH1E-BwlUx11qJDRdCj2hBNyDJEReyVjeFe0Hn0o3_-QCaiFidF9ulQhAqdCEWQWfmyvIyOVkJqRvjwdSmdaFhBbOBN73Poj4oq-aS3CNsK68Hg1K8yq0JlLjwIApSzEwFpxQeVEX1g-v3zZl_rY7OcAsbKL9VfWMzJ3S2lQYBnHPeMi4isTw1ouVsucHXCXqy3UFp2682UZxBNCnIsDvxo0fEUvuZ1lE2qMSXZucMPtyBwiZeEKpymyr5pHDQFIN0vkGn6GhKWOVteQB_9SfiUtWbX53ldxodWJjz3VS8chEpYmRnMLoWIQu3fS_DE0WZGT-3hb6WLsUz4NYFfdbOCmRBlZnVICmuNKo7wtfQH9mDm37yfkPEMgtgvxuRt947IrHmfor26ziuCMFRbYBgk6F9kU9Gv0qdSP5Y24MGlURK3IfmQFHGGvcjRbMvevquOY2K0b3zU5Tn2VWly0S9tKIWrehFNBLgsAC-bdxMw4NSg42gH1yQ=w1241-h931-no"
+    sidebarBehavior = 1
+    coverImage = "https://source.unsplash.com/8zMIksrTrOQ/1600x900"
     imageGallery = true
     thumbnailImage = true
     autoThumbnailImage = true
