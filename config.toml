@@ -15,7 +15,7 @@ googleAnalytics = "UA-102582424-1"
 
 [author]
     name = "Jay's Journal"
-    bio = "Technology • Travel • Family • Life"
+    bio = "Family • Life • Technology • Travel"
     location = "Bangkok - Thailand"
     picture = "/css/images/logo.png"
     #gravatarEmail = "pathompong@gmail.com"
@@ -55,12 +55,12 @@ googleAnalytics = "UA-102582424-1"
 [params]
     date_format = "2 January 2006"
     clearReading = false
-    description = "Hugo tranquilpeak theme demo"
     sidebarBehavior = 1
     coverImage = "https://source.unsplash.com/8zMIksrTrOQ/1600x900"
     imageGallery = true
     thumbnailImage = true
-    autoThumbnailImage = true
+    thumbnailImagePosition = "left"
+    autoThumbnailImage = false
     favicon = "/favicon.ico"
     keywords = [ "pantip", "ท่องเที่ยว", "เที่ยวด้วยตัวเอง" ]
 
