@@ -46,8 +46,8 @@ thumbnailImagePosition: "top"
 
 ขึ้นรถไฟมาก็ว่างมาก มีที่วางกระเป๋าเดินทางอยู่ติดกับประตูทางเข้า เราก็วางไว้แล้วเข้ามาเลือกที่นั่งได้ตามสบายเลยครับ เนื่องจากที่พักเราอยู่แถวจิมซาจุ่ย เราจะลงกันที่เกาลูนแล้วต่อรถรับส่งอีกที นั่งมาประมาณครึ่งชั่วโมงก็ถึงเกาลูน เดินไปที่เคาเตอร์ตรงทางออก แล้วก็ยื่น email confirmation ที่เราพิมพ์ออกมาให้พนักงานได้เลย ก็จะได้บัตรของแต่ล่ะคนไว้เสียบกับเครื่องกั้นตอนออกได้เลยครับ เนื่องจากเราขาดบัตร Octopus อีกสองใบ ก็สามารถขอซื้อกับพนังงานตรงนั้นได้เลย เป็นบัตร Optopus Elderly กับ Optopus Child อย่างล่ะใบ
 
-{{< image classes="fancybox fig-50" src="/images/hongkong-2017-day1/IMG_7533.jpg" group="airplane">}}
-{{< image classes="fancybox fig-50 clear" src="/images/hongkong-2017-day1/20170702_203942.jpg" group="airplane">}}
+{{< image classes="fancybox fig-50" src="/images/hongkong-2017-day1/IMG_7533.jpg" group="train">}}
+{{< image classes="fancybox fig-50 clear" src="/images/hongkong-2017-day1/20170702_203942.jpg" group="train">}}
 
 ออกจากรถไฟ Airport Express ให้ลงลิฟท์ไปชั้นล่างเพื่อจะไปนั่งรถรับส่งฟรี สามารถดูสายรถได้ที่ http://www.mtr.com.hk/en/customer/services/complom_free_bus.html
 
@@ -70,3 +70,5 @@ thumbnailImagePosition: "top"
 {{< image classes="fancybox fig-25 clear" src="/images/hongkong-2017-day1/20170702_221558.jpg" group="dinner">}}
 
 หลังจากกินกันอิ่มแล้วก็เดินย่อย ช้อปปิ้งกันแถวโรงแรม มีร้านต่างๆ และห้างหลายห้างมาก แต่ที่ใกล้ๆ เลยก็มี Esprit กับ adidas แต่วันนี้เรายังไม่ซื้ออะไร เพราะมีเวลาอีกหลายวัน แอบเก็บราคากันไว้ก่อน เสร็จแล้วกลับโรงแรมเตรียมตัวไปเที่ยวพรุ่งนี้ต่อกัน
+
+{{< inarticle_ad >}}

@@ -1,13 +1,15 @@
-+++
-title = "พาเที่ยวฮ่องกง Summer 2017 - เตรียมตัว"
-date = "2017-07-14T13:26:00+07:00"
-categories = ["travel"]
-tags = ["hongkong"]
-coverImage = "/images/hongkong-2017-prepare/cover.jpg"
-coverSize = "full"
-thumbnailImage = "/images/hongkong-2017-prepare/cover-tn.jpg"
-thumbnailImagePosition = "top"
-+++
+---
+title: "พาเที่ยวฮ่องกง Summer 2017 - เตรียมตัว"
+date: "2017-07-14T13:26:00+07:00"
+categories:
+    - "travel"
+tags:
+    - "hongkong"
+coverImage: "/images/hongkong-2017-prepare/cover.jpg"
+coverSize: "partial"
+thumbnailImage: "/images/hongkong-2017-prepare/cover-tn.jpg"
+thumbnailImagePosition: "top"
+---
 
 ทริปนี้เป็นการไปฮ่องกงครั้งแรกนับจากตอนเด็กๆ ที่พ่อแม่พาไป คราวนี้จะเป็นการพาพ่อไปเที่ยวบ้าง เนื่องจากเป็นการไปเที่ยวช่วงฤดูฝนของฮ่องกง ซึ่งจะเป็นช่วงลดทั้งเกาะ เลยตั้งใจวางแผนที่จะไปช้อปปิ้งพร้อมหาของอร่อยกิน
 

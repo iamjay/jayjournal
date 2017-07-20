@@ -1,7 +1,6 @@
 ---
-draft: true
 title: "พาเที่ยวฮ่องกง Summer 2017 - Day 2"
-date: "2017-07-18T22:28:00+07:00"
+date: "2017-07-20T23:40:00+07:00"
 categories:
     - "travel"
 tags:
@@ -25,9 +24,12 @@ thumbnailImagePosition: "top"
 
 โจ๊กที่ร้านนี้อร่อยมาก จะมาพร้อมปาท่องโก๋ชิ้นใหญ่มาก นอกจากนั้นก็สั่งเพิ่มก๋วยเตี๋ยวหลอดไส้ปาท่องโก๋ เฉลี่ยมื้อนี้คนล่ะประมาณ 50 HK$ อิ่มอร่อยมาก จากนั้นเราก็ขนผลไม้กลับไปที่พักเก็บไว้กันทั้งทริปนี้ แล้วก็รับสองแม่ลูกไปเที่ยวนองปิงกันต่อ ก่อนไปพาสองแม่ลูกไปกินอาหารเช้าที่ชาวฮ่องกงนิยมกันมากอีกร้านนึง ชื่อว่า [Tsui Wah](http://www.tsuiwah.com/business/restaurant/branches/) ร้านนี้จะเต็มไปด้วยครอบครัวชาวฮ่องกง พาลูกมากินอาหารเช้า ได้บรรยากาศไปอีกแบบ ร้านนี้มีหลายสาขาอีกเหมือนกัน แถวจิมซาจุ่ยก็อยู่ที่ทางออก D2 หรือตามนี้เลย https://goo.gl/maps/CgLtgBj5zbK2
 
-{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_085920.jpg" group="breakfast">}}
-{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_085917.jpg" group="breakfast">}}
-{{< image classes="fancybox fig-33 clear" src="/images/hongkong-2017-day2/20170703_091810.jpg" group="breakfast">}}
+{{< image classes="fancybox fig-25 right" src="/images/hongkong-2017-day2/20170703_085651.jpg" group="breakfast">}}
+{{< image classes="fancybox fig-25 right" src="/images/hongkong-2017-day2/20170703_085748.jpg" group="breakfast">}}
+{{< image classes="fancybox fig-25" src="/images/hongkong-2017-day2/20170703_084930.jpg" group="breakfast">}}
+{{< image classes="fancybox fig-25" src="/images/hongkong-2017-day2/20170703_085920.jpg" group="breakfast">}}
+{{< image classes="fancybox fig-25" src="/images/hongkong-2017-day2/20170703_085917.jpg" group="breakfast">}}
+{{< image classes="fancybox fig-25 clear" src="/images/hongkong-2017-day2/20170703_091810.jpg" group="breakfast">}}
 
 กินมื้อเช้ากันเรียบร้อยก็ไปนองปิงกันต่อ การเดินทางไปนองปิงนั้นง่ายมาก นั่งรถไฟใต้ดินจากสถานี Tsim Sha Tsui สายสีแดงไปลง Lai King จากนั้นเปลี่ยนเป็นสายสีส้ม ไปลงที่ Tung Chung ออกจากสถานีรถไฟก็จะเจอกับห้าง Citygate Outlets ติดๆ กันเลย
 
@@ -35,6 +37,9 @@ thumbnailImagePosition: "top"
 
 พอลงจากรถบัสก็จะเป็นลานกว้างๆ เดินเข้าไปด้านในจะถึงบันไดขึ้นไปที่องค์พระอีกที ความสูงก็พอให้เดินแล้วเหนื่อยเล็กน้อย ด้านบนลมจะแรงมาก อากาศจะออกเย็นๆ แม้จะเป็นหน้าร้อน และจะมีเมฆลอยมาตลอดเวลา 
 
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_101714.jpg" group="ngongping">}}
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_102948.jpg" group="ngongping">}}
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_150839.jpg" group="ngongping">}}
 {{< image classes="fancybox fig-75 right" src="/images/hongkong-2017-day2/IMG_7552.jpg" group="ngongping">}}
 {{< image classes="fancybox fig-25" src="/images/hongkong-2017-day2/IMG_7553.jpg" group="ngongping">}}
 {{< image classes="fancybox fig-25" src="/images/hongkong-2017-day2/IMG_7564.jpg" group="ngongping">}}
@@ -65,3 +70,28 @@ thumbnailImagePosition: "top"
 กินกันอิ่มก็ได้เวลาเดินช้อปปิ้งย่อยอาหารกันแล้ว ที่ outlet นี้ก็มีร้านมากมายแต่จะเป็นรุ่นเก่าหน่อย ชั้นใต้ดินก็จะมี Supermarket ด้วยครับ เดินช้อปปิ้งกันจนเมื่อยแล้วก็ได้เวลากลับเข้าเมืองกัน เราจะนั่งสายสีส้มจากสถานี Tung Chung ไปลงสถานี Hong Kong ทีเดียวเลยจะได้ไม่ต้องเปลี่ยนสายรถไฟ จากนั้นค่อยนั่งเรือข้ามฝั่งไปยังฝั่งเกาลูน ได้เปลี่ยนบรรยากาศการเดินทางด้วย
 
 จากสถานี Hong Kong เดินชมเมืองไปเรื่อยๆ จะเห็นวิวตึกต่างๆ Apple Store และ Hong Kong Observation Wheel เดินตามป้ายบอกทางไปท่าเรือหมายเลข 7 ของ Star Ferry เรื่อยๆ เมื่อถึงแล้วให้เดินขึ้นไปทาง Upper Deck จะนั่งสบายกว่า พอเรือมาถึงฝั่งเกาลูนก็จะเจอกับห้าง Habour City ใหญ่มากและมีร้านต่างๆ มากมาย เราเดินเล่นกันสักพักนึง ก็กลับโรงแรมไปเก็บของ คืนนี้ยังมีภารกิจต้องไปอีก นั่นคือไปเดินย่านมงก๊กกัน
+
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_155936.jpg" group="hongkong">}}
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/IMG_7653.jpg" group="hongkong">}}
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/IMG_7663.jpg" group="hongkong">}}
+{{< image classes="fancybox fig-25" src="/images/hongkong-2017-day2/IMG_7664.jpg" group="hongkong">}}
+{{< image classes="fancybox fig-25" src="/images/hongkong-2017-day2/IMG_7672.jpg" group="hongkong">}}
+{{< image classes="fancybox fig-25" src="/images/hongkong-2017-day2/IMG_7673.jpg" group="hongkong">}}
+{{< image classes="fancybox fig-25 clear" src="/images/hongkong-2017-day2/IMG_7674.jpg" group="hongkong">}}
+
+พักที่โรงแรมกันจนหายเหนื่อยแล้วก็ออกไปมงก๊กกันต่อเลย ห่างจากสถานีจิมซาจุ่ยเพียงสามสถานีเท่านั้น เราจะไปกินข้าวเย็นกันที่ร้าน [Tai Hing](http://www.taihingroast.com.hk/index.php) ร้านนี้มีสาขาในฮ่องกงเยอะมาก สาขาที่เราจะไปกันอยู่บนถนนนาธาน จากสถานีมงก๊ก ออกทางออก E1 เดินนิดเดียวก็ถึงแล้ว
+
+ระหว่างเดินไปร้านอาหาร พอดีเห็นรถขายไอศครีมจอดอยู่ เป็นไอศครีมที่อร่อยมาก และก็ไม่แพงด้วย ได้รสชาดของนมมากๆ ใครมาฮ่องกงพลาดไม่ได้จริงๆ ครับ เสร็จจากไอศครีมของหวานก็ไปต่อของคาวกัน ร้าน Tai Hing ขึ้นชื่อเรื่องหมูกรอบ และชาเย็น เราสั่งหมูแดง ไก่ หมูกรอบ พร้อมข้าวเปล่า อร่อยมากครับ
+
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_175404.jpg" group="dinner">}}
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_175719.jpg" group="dinner">}}
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_180752.jpg" group="dinner">}}
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_175434.jpg" group="dinner">}}
+{{< image classes="fancybox fig-33" src="/images/hongkong-2017-day2/20170703_181343.jpg" group="dinner">}}
+{{< image classes="fancybox fig-33 clear" src="/images/hongkong-2017-day2/20170703_182331.jpg" group="dinner">}}
+
+อิ่มกันทุกคนแล้วก็ได้เวลาเดินช้อปปิ้งเพื่อย่อยอาหาร แถวนี้จะมีห้างมากมาย ห้างนึงที่พลาดไม่ได้คือ [Langham Place](https://goo.gl/maps/Svfd2nYgxkM2) เป็นห้างที่มีบันไดเลื่อนยาวมากๆ วิธีเดินห้างนี้คือให้ขึ้นบันไดเลื่อนไปจนสูงสุด แล้วเดินวนๆ ลงมา ทางเดินลงจะทำเป็นทางลาดลงมาเรื่อยๆ จนถึงล็อบบี้ลอยฟ้าที่สวยมาก ที่ชั้นบนสุดจะมีร้าน Lego อยู่ด้วย ซึ่ง Lego ที่นี่จะมีราคาถูกกว่าที่ไทยพอสมควร ใครชอบ Lego ก็ห้ามพลาด
+
+{{< image classes="fancybox" src="/images/hongkong-2017-day2/20170703_184439.jpg" group="lego">}}
+
+เสร็จจากเดินห้าง ก็ไปเดิน Ladies Market กันต่อ เนื่องจากของที่ขายไม่ใช่แนว จึงเดินผ่านไปอย่างรวดเร็ว แต่ก็ถือว่าได้มาเดินให้เห็นว่ามีอะไรบ้าง เสร็จจากที่นี่ก็มืดพอสมควรแล้ว ได้เวลากลับโรงแรมพักผ่อนกันจริงๆ สักที
