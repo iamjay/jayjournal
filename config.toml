@@ -64,6 +64,9 @@ googleAnalytics = "UA-102582424-1"
     favicon = "/favicon.ico"
     keywords = [ "pantip", "ท่องเที่ยว", "เที่ยวด้วยตัวเอง" ]
 
+[params.ga]
+    async = true
+
 [params.sidebar.profile]
     url = "/"
 

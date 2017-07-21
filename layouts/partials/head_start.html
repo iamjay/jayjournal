@@ -1,0 +1,9 @@
+<script>
+function getCookieValue(a) {
+    var b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
+    return b ? b.pop() : '';
+}
+if (getCookieValue("InternalTraffic") === "true") {
+    window['ga-disable-UA-102582424-1'] = true;
+}
+</script>
