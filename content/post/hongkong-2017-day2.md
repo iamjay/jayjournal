@@ -8,7 +8,7 @@ tags:
 coverImage: "/images/hongkong-2017-day2/cover.jpg"
 coverSize: "partial"
 thumbnailImage: "/images/hongkong-2017-day2/cover-tn.jpg"
-thumbnailImagePosition: "top"
+thumbnailImagePosition: "left"
 ---
 
 สำหรับแพลนวันนี้ เราจะไปไหว้พระใหญ่ที่นองปิงกัน เสร็จแล้วแวะช้อปปิ้งที่ Citygate Outlets จากนั้นแวะห้าง Habour City ก่อนไปเดินเล่นกลางคืนที่ย่านมงก๊ก
