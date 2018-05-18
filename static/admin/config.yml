@@ -11,11 +11,27 @@ collections:
       label: "Blog"
       folder: "content/post"
       create: true
-      slug: {{slug}}
+      slug: "{{slug}}"
       fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Auto Thumbnail Image", name: "autoThumbnailImage", widget: "boolean", default: true, required: false}
+      - {label: "Thumbnail Image", name: "thumbnailImage", widget: "image", required: false, required: false}
+      - {label: "Thumbnail Image Position", name: "thumbnailImagePosition", widget: "select", options: ["left", "right", "bottom"], default: "left", required: false}
+      - {label: "Meta Alignment", name: "metaAlignment", widget: "select", options: ["left", "center", "right"], default: "left", required: false}
+      - {label: "Cover Image", name: "coverImage", widget: "image", required: false}
+      - {label: "Cover Size", name: "coverSize", widget: "select", options: ["partial", "full"], default: "full", required: false}
+      - {label: "Cover Caption", name: "coverCaption", widget: "string", required: false}
+      - {label: "Cover Meta", name: "coverMeta", widget: "select", options: ["in", "out"], default: "in", required: false}
+      - {label: "Gallery", name: "gallery", widget: "list", required: false}
+      - {label: "Comments", name: "comments", widget: "boolean", default: true, required: false}
+      - {label: "Show Date", name: "showDate", widget: "boolean", default: true, required: false}
+      - {label: "Show Tags", name: "showTags", widget: "boolean", default: true, required: false}
+      - {label: "Show Pagination", name: "showPagination", widget: "boolean", default: true, required: false}
+      - {label: "Show Social", name: "showSocial", widget: "boolean", default: true, required: false}
+      - {label: "Show Meta", name: "showMeta", widget: "boolean", default: true, required: false}
+      - {label: "Show Actions", name: "showActions", widget: "boolean", default: true, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
