@@ -26,7 +26,7 @@ collections:
       - {label: "Cover Size", name: "coverSize", widget: "select", options: ["partial", "full"], default: "full"}
       - {label: "Cover Caption", name: "coverCaption", widget: "string", required: false}
       - {label: "Cover Meta", name: "coverMeta", widget: "select", options: ["in", "out"], default: "in"}
-      - {label: "Gallery", name: "gallery", widget: "list"}
+      - {label: "Gallery", name: "gallery", widget: "list", required: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
       - {label: "Show Date", name: "showDate", widget: "boolean", default: true}
       - {label: "Show Tags", name: "showTags", widget: "boolean", default: true}
