@@ -18,7 +18,20 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: "Cover Image", name: "coverImage", widget: "image", required: false}
+      - {label: "Auto Thumbnail Image", name: "autoThumbnailImage", widget: "boolean", default: true}
       - {label: "Thumbnail Image", name: "thumbnailImage", widget: "image", required: false}
-      - {label: "Auto Thumbnail Image", name: "autoThumbnailImage", widget: "boolean", default: true, required: false}
+      - {label: "Thumbnail Image Position", name: "thumbnailImagePosition", widget: "select", options: ["left", "right", "bottom"], default: "left"}
+      - {label: "Meta Alignment", name: "metaAlignment", widget: "select", options: ["left", "center", "right"], default: "left"}
+      - {label: "Cover Image", name: "coverImage", widget: "image", required: false}
+      - {label: "Cover Size", name: "coverSize", widget: "select", options: ["partial", "full"], default: "full"}
+      - {label: "Cover Caption", name: "coverCaption", widget: "string", required: false}
+      - {label: "Cover Meta", name: "coverMeta", widget: "select", options: ["in", "out"], default: "in"}
+      - {label: "Gallery", name: "gallery", widget: "list"}
+      - {label: "Comments", name: "comments", widget: "boolean", default: true}
+      - {label: "Show Date", name: "showDate", widget: "boolean", default: true}
+      - {label: "Show Tags", name: "showTags", widget: "boolean", default: true}
+      - {label: "Show Pagination", name: "showPagination", widget: "boolean", default: true}
+      - {label: "Show Social", name: "showSocial", widget: "boolean", default: true}
+      - {label: "Show Meta", name: "showMeta", widget: "boolean", default: true}
+      - {label: "Show Actions", name: "showActions", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
