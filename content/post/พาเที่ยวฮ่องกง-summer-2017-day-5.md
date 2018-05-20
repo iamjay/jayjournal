@@ -1,7 +1,7 @@
 ---
 title: พาเที่ยวฮ่องกง Summer 2017 - Day 5
 date: '2017-08-04T23:21:44+07:00'
-draft: true
+draft: false
 categories:
   - travel
 tags:
