@@ -23,19 +23,17 @@ showActions: true
 ---
 วันนี้เป็นวันสุดท้ายที่เราจะอยู่ที่ฮ่องกง วันนี้เราจะไปไหว้พระกัน จากนั้นก็ช้อปปิ้งส่งท้าย แล้วก็เดินทางไปสนามบินกลับกรุงเทพ
 
-
 <!--more-->
-
 
 วัดที่เราจะไปกันวันนี้มีทั้งหมดสามวัดด้วยกัน ที่แรกที่เราจะไปกันคือ Wong Tai Sin Temple จากนั้นก็จะไปต่อกันที่ Chi Lin Nunnery ซึ่งจะอยู่ในโซนใกล้ๆกัน จากนั้นก็จะไปวัดสุดท้ายที่สำคัญที่สุดสำหรับพวกเราคือ Che Kung Temple หรือวัดกังหัน
 
 {{< image classes="fancybox fig-50" src="/images/uploads/img_8391.jpg" group="wong_tai_sin">}}
 {{< image classes="fancybox fig-50" src="/images/uploads/img_8407.jpg" group="wong_tai_sin">}}
-{{< image classes="fancybox fig-25" src="/images/uploads/img_8410.jpg" group="wong_tai_sin">}}
-{{< image classes="fancybox fig-25" src="/images/uploads/img_8443.jpg" group="wong_tai_sin">}}
+{{< image classes="fancybox fig-33" src="/images/uploads/img_8410.jpg" group="wong_tai_sin">}}
+{{< image classes="fancybox fig-33" src="/images/uploads/img_8443.jpg" group="wong_tai_sin">}}
+{{< image classes="fancybox fig-33" src="/images/uploads/img_8484.jpg" group="wong_tai_sin">}}
 {{< image classes="fancybox fig-50" src="/images/uploads/img_8420.jpg" group="wong_tai_sin">}}
 {{< image classes="fancybox fig-50" src="/images/uploads/img_8447.jpg" group="wong_tai_sin">}}
-{{< image classes="fancybox fig-50" src="/images/uploads/img_8484.jpg" group="wong_tai_sin">}}
 {{< image classes="fancybox fig-50" src="/images/uploads/img_8460.jpg" group="wong_tai_sin">}}
 {{< image classes="fancybox fig-50" src="/images/uploads/img_8411.jpg" group="wong_tai_sin">}}
 
